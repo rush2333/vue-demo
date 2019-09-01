@@ -1,0 +1,21 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1566552267158'); /* IE9 */
+  src: url('iconfont.eot?t=1566552267158#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAARIAAsAAAAACNQAAAP7AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCCcAqFYIRTATYCJAMICwYABCAFhG0HMBt5BxHVm8nJfg64m8vosqGi0sTLdV+b9ko5wjNSZmbuePja73fuvv2qCbVI9yyayCSmE2lEYqRkpouH+n7sr3wZI1lX1kcpBAvyXOhPzbN02tncjKVqVIRiSc7D6ymZn25Wml8BcHDMdJE4G+YBDWQ4xIykxAHOCmhg3ZpEAYpP/wDPETW50cdlAk1zOkLHoydKYJHBrEDcr1qxCCw5vdxACnVVldiYm6KLUFFPp3QagOfw9/ED3cMCkkoBUHF2N2opDH1z4hT9wfDB2+IMPE1nhbSNAjtAJq5I+wl9HN+h1zTsBkvN1Vnw5gyXPn+zf3gEUQWQt1nsDP+aBK7wUuWJ/zxjAvwDxMwgD5M2ZLtjfTFOJ4plyLkLIeuOIBOCY8wpZbLM8pISscKz4xMmU4cE6FpBnqsiMWCjgScSTdj1jNd+kLoOYcR+hjz/KD99SawJ2pkgVc9nYp4dyG+bPzSPFHUQiVL9k5FPPinP1EM8lwaSY5/yGZ9VkYSRtivQ93Qh0h8qOlMA6THfIR0UqYvPt82RaGFiElFFQUL8IoVL5LygzE7JXmrjGAm7/UwQaGC47TQ/xHawg3RRJWv3o2zLbQkFZ4oOFZ7OP/K+bnjl7A4j6v0FHUd2loYe63mk1w556LaRYmRJ3YjKOdUc7p+oCsyd+OdHTyZ3HXbm5Qd0Ue09JkIZ8GjQxd6e4ylP/2/myI0TpUnz6zci0/DDMztb9yzatXRsqwGX+y46gg7/uZT4jq6xo2Xd1Hbycv9ytAyWPUwc7Ulb+3V5y2UFjlitY7ZrqH64LdT1rrXdONdx8exXMHk3jdvWQkWKd2kyCeE9WOukMd7QU/yW2/ymo2bcY3wbHK4da1LpnXK7knlrwwDW91lhyb6rvO+NwrP7bn9InWrsYzKlmk19jAtHyvav5KtddnzF4Zc900himol9anWmvd/otiAvIkKZDkOBsrH8Z3r9mf/Fbb671W5f4B74p243ALwee3g3FHdzUn97juBfUJOHhBtFuZBFoEtZ5zXUxkj+Ifh2pU0MUQK4h94NVU9eeTrUTV68s2Y2hULdCjJjd6CiZReq6vagaduY7S0jm+lFtgJbjjEQ+sog6XqBQl8ImbFvoWLqC1T1Qw9NN+E/sGUtHCNGEE6ML5j/YJZ9k46JRVR6RfX2E2VFIeWJFEwIqrwspjrckKZYEj6qZpYgaV+hZa5D73c4aLe4cK6Zj6YoJPWmfNnXSEQjCCfGF8x/MMu+Sb89i9L3r6jefqKGpgbzEymYwaHKyw7ITr51arqV4eGjambJT5O0r9CyVvQY3+Ggx1lcONcDokdTcK1kV3m+vHJ9u31EkYhAk8Q4Ko1MQZt5MlEEAA==') format('woff2'),
+  url('iconfont.woff?t=1566552267158') format('woff'),
+  url('iconfont.ttf?t=1566552267158') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1566552267158#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-shibai:before {
+  content: "\e50d";
+}
+
